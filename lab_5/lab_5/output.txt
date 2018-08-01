@@ -1,0 +1,60 @@
+Car enthusiast 1 came to change tires, current time:  0
+Car enthusiast 1 is gone away, current time:  101
+Для продолжения нажмите любую клавишу . . . 
+Car enthusiast 2 came to change wheels, current time:  630
+Car enthusiast 2 is gone away, current time:  792
+Для продолжения нажмите любую клавишу . . . 
+Car enthusiast 3 came to change tires, current time:  1095
+Car enthusiast 3 is gone away, current time:  1375
+Для продолжения нажмите любую клавишу . . . 
+Car enthusiast 4 came to change tires, current time:  1447
+Car enthusiast 4 is gone away, current time:  1705
+Для продолжения нажмите любую клавишу . . . 
+Car enthusiast 5 came to change wheels, current time:  2284
+Car enthusiast 5 is gone away, current time:  2611
+Для продолжения нажмите любую клавишу . . . 
+Car enthusiast 6 came to change wheels, current time:  2813
+Car enthusiast 6 is gone away, current time:  3010
+Для продолжения нажмите любую клавишу . . . 
+Car enthusiast 7 came to change tires, current time:  3493
+Car enthusiast 7 is gone away, current time:  3712
+Для продолжения нажмите любую клавишу . . . 
+Car enthusiast 8 came to change tires, current time:  3831
+Car enthusiast 8 is gone away, current time:  4212
+Для продолжения нажмите любую клавишу . . . 
+Car enthusiast 9 came to change wheels, current time:  4103
+Car enthusiast 9 is gone away, current time:  4308
+Для продолжения нажмите любую клавишу . . . 
+Car enthusiast 10 came to change wheels, current time:  4530
+Car enthusiast 10 is gone away, current time:  4638
+Для продолжения нажмите любую клавишу . . . 
+Go to Work, turn off your TV, current time:  0
+Car enthusiast 1 was served, current time:  150
+let's watch TV, current time:  150
+Go to Work, turn off your TV, current time:  630
+Car enthusiast 2 was served, current time:  1080
+let's watch TV, current time:  1080
+Go to Work, turn off your TV, current time:  1095
+Car enthusiast 3 was served, current time:  1245
+let's watch TV, current time:  1245
+Go to Work, turn off your TV, current time:  1447
+Car enthusiast 4 was served, current time:  1597
+let's watch TV, current time:  1597
+Go to Work, turn off your TV, current time:  2284
+Car enthusiast 5 was served, current time:  2734
+let's watch TV, current time:  2734
+Go to Work, turn off your TV, current time:  2813
+Car enthusiast 6 was served, current time:  3263
+let's watch TV, current time:  3263
+Go to Work, turn off your TV, current time:  3493
+Car enthusiast 7 was served, current time:  3643
+let's watch TV, current time:  3643
+Go to Work, turn off your TV, current time:  3831
+Car enthusiast 8 was served, current time:  3981
+let's watch TV, current time:  3981
+Go to Work, turn off your TV, current time:  4103
+Car enthusiast 9 was served, current time:  4553
+Car enthusiast 10 was served, current time:  5003
+Can exhale, customers is now over!, current time:  5003
+Для продолжения нажмите любую клавишу . . . 
+Для продолжения нажмите любую клавишу . . . 

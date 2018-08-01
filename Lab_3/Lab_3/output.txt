@@ -1,0 +1,8 @@
+qsort: parallel: 10000 elements in 0.182 seconds
+qsort: ordinary: 10000 elements in 0.149 seconds
+merge: parallel: 10000 elements in 0.788 seconds
+merge: ordinary: 10000 elements in 0.656 seconds
+3 32765
+3 32765
+3 32765
+3 32765
